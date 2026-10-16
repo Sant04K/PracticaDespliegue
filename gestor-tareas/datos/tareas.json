@@ -1,0 +1,5 @@
+[
+  { "id": 1, "texto": "Preparar el entorno de despliegue", "prioridad": 1, "hecha": false },
+  { "id": 2, "texto": "Escribir el README del proyecto", "prioridad": 3, "hecha": false },
+  { "id": 3, "texto": "Configurar el repositorio remoto", "prioridad": 2, "hecha": false }
+]
